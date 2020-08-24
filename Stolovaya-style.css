@@ -6,7 +6,7 @@ body{
 }
 
 @font-face {
-  src: url(Fonts/moi.otf); 
+  src: url(/moi.otf); 
   font-style: normal; 
     font-weight: normal; 
   }
